@@ -13,6 +13,11 @@ qrencode
 sudo apt install qrencode
 ```
 
+thonny
+```
+sudo apt install thonny
+```
+
 ## web
 
 https://asciinema.org/ 
