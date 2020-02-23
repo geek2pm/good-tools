@@ -15,6 +15,7 @@ sudo apt install qrencode
 
 thonny
 ```
+pip3 install setuptools
 pip3 install thonny
 ```
 
