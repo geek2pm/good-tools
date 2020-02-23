@@ -19,3 +19,9 @@ file share
 
 ### https://send.firefox.com/
 firefox send
+
+## iot
+
+https://examples.blynk.cc/
+
+https://login.particle.io/
