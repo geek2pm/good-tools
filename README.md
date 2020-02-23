@@ -15,7 +15,7 @@ sudo apt install qrencode
 
 thonny
 ```
-sudo apt install thonny
+pip3 install thonny
 ```
 
 ## web
