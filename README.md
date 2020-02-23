@@ -1,27 +1,33 @@
 # good-tools
+## soft
 
-### peek
+peek
 
 ```
 sudo apt install peek
 ```
-### qrencode
+
+qrencode
 
 ```
 sudo apt install qrencode
 ```
 
-### https://asciinema.org/ 
-Record and share your terminal sessions, the right way.
+## web
 
-### https://www.ssavr.com/
-file share
+https://asciinema.org/ 
+> Record and share your terminal sessions, the right way.
 
-### https://send.firefox.com/
-firefox send
+https://www.ssavr.com/
+> file share
+
+https://send.firefox.com/
+> firefox send
 
 ## iot
 
 https://examples.blynk.cc/
 
 https://login.particle.io/
+
+https://build.particle.io/build
